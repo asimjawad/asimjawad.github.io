@@ -78869,7 +78869,7 @@ A.a4x.prototype={
 $0(){return this.a.d.k9(u.v)},
 $S:0}
 A.a4y.prototype={
-$0(){return this.a.d.k9("https://wa.me/03036308035")},
+$0(){return this.a.d.k9("https://wa.me/+923036308035")},
 $S:0}
 A.a4z.prototype={
 $1(a){var s=null,r=this.a,q=r.c,p=q.a,o=A.d0(B.X,new A.d_(new A.cS(A.cN(12),s)),q.as,8,s,0.6,B.Y,s,B.jq,0.25),n=A.d0(B.X,B.fH,s,A.j8(this.b),s,s,B.Y,s,B.a7,0.25)
@@ -78895,7 +78895,7 @@ $3(a,b,c){var s=null,r=this.a.c,q=r.a,p=B.Gk[b],o=A.cN(12)
 return A.ba(s,A.bI(A.a([A.bS(p.b,B.j,30),B.mF,A.aJ(p.a,s,s,s,s,r.r.aaX(B.j,"Montserrat",18),s,s)],t.p),B.a5,B.bn,B.p),B.l,s,s,new A.cF(p.c,s,s,o,s,s,B.am),s,s,s,s,B.Df,s,s,q)},
 $S:452}
 A.a4D.prototype={
-$0(){return this.a.d.k9("https://wa.me/03036308035")},
+$0(){return this.a.d.k9("https://wa.me/+923036308035")},
 $S:8}
 A.a4E.prototype={
 $0(){return this.a.d.k9(u.v)},
