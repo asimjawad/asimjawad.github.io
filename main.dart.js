@@ -78843,7 +78843,7 @@ $S:47}
 A.k5.prototype={}
 A.JC.prototype={
 D(a){var s=t.N
-return A.Aa(new A.a4F(),new A.a4G(a),new A.kd(new A.pE(),A.aC(["Mobile Developer","assets/images/android.png","Web Developer","assets/images/web.png","Designer","assets/images/design.png","AI Enthusiast","assets/images/ml.png"],s,s),new A.bC(t.yF),new A.bC(t.G_),$.aZ()),t.X7)}}
+return A.Aa(new A.a4F(),new A.a4G(a),new A.kd(new A.pE(),A.aC(["Mobile Developer","assets/images/android.png"],s,s),new A.bC(t.yF),new A.bC(t.G_),$.aZ()),t.X7)}}
 A.a4G.prototype={
 $1(a){return a.DG(this.a)},
 $S:449}
